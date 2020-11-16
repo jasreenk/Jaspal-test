@@ -1,7 +1,17 @@
-.row {
-	margin-bottom: 15px;
-}
-.row > div {
-	border: 2px solid red;
-	background-color: green;
-}
+p {
+        	width: 90px;
+        	height: 30px;
+        	margin-right: 0;
+        	margin-top: 0;
+        	border:2px solid black;
+        	text-align: center;
+        	float: right;
+        	font: bold;
+        	position: relative;
+            }
+#content {
+                position: relative;
+                text-align: center;
+                float: right;
+                font: bold;
+             }
