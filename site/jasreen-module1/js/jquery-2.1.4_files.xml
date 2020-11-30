@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="jquery-2.1.4.js" source="original">
+    <mtime>1438338583</mtime>
+    <size>84345</size>
+    <md5>f9c7afd05729f10f55b689f36bb20172</md5>
+    <crc32>cc381312</crc32>
+    <sha1>43dc554608df885a59ddeece1598c6ace434d747</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="jquery-2.1.4_archive.torrent" source="metadata">
+    <btih>cacfbf303568f78066056b78c12a28f4447fa95d</btih>
+    <mtime>1483157581</mtime>
+    <size>2142</size>
+    <md5>b9ee984bec0f90215308e308a873bd2d</md5>
+    <crc32>f7edf729</crc32>
+    <sha1>7dcbccee02b1338184ab22f7a90fe3b2e7cc7545</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="jquery-2.1.4_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c9e85353ad76da27e4df8a213c01360d</md5>
+  </file>
+  <file name="jquery-2.1.4_meta.sqlite" source="original">
+    <mtime>1438338614</mtime>
+    <size>12288</size>
+    <format>Metadata</format>
+    <md5>89b559e91cd97be0a38998f798d9a819</md5>
+    <crc32>f149c358</crc32>
+    <sha1>0c72980e166da02bb728ad7cfe28c95583c7d9e2</sha1>
+  </file>
+  <file name="jquery-2.1.4_meta.xml" source="original">
+    <mtime>1483157580</mtime>
+    <size>834</size>
+    <format>Metadata</format>
+    <md5>820a0f6e20f188825208ef40cb2e729f</md5>
+    <crc32>fe700955</crc32>
+    <sha1>c4ef0ddc15ac6947c406bbf8ffc55211f57e57f1</sha1>
+  </file>
+  <file name="main.js" source="original">
+    <mtime>1438338594</mtime>
+    <size>4684</size>
+    <md5>c1bc8cd2fc824b9f21904e24bf76d86f</md5>
+    <crc32>8b6a486d</crc32>
+    <sha1>01402ac7bf8d4194c98b1a6aa051dae84d3bdb8e</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="modernizr.js" source="original">
+    <mtime>1438338599</mtime>
+    <size>15250</size>
+    <md5>1258d3cdc71540b07f3422a31e41f21a</md5>
+    <crc32>7fa2ccf8</crc32>
+    <sha1>a426c47c8eb8910ac2a552b2e51b8791858da693</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="velocity.min.js" source="original">
+    <mtime>1438338608</mtime>
+    <size>34856</size>
+    <md5>c1b8d079c7049879838d78e0b389965e</md5>
+    <crc32>93a8fc04</crc32>
+    <sha1>2f1afadc12e4cf59ef3b405308d21baa97e739c6</sha1>
+    <format>Unknown</format>
+  </file>
+</files>
